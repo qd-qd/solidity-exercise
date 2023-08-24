@@ -1,9 +1,10 @@
-**NOTE**: This exercise is used by ledger to test potential candidates, it has been created for this purposes.
-
-
 # Ledger Solidity exercise
 
-Founded in 2014, Ledger is a leader in security and infrastructure solutions for cryptocurrencies and blockchain applications. Headquartered in Paris, with offices in Vierzon, New York, London and Singapore, Ledger has a team of 280+ professionals developing products and services to safeguard cryptocurrency assets for individuals and companies.
+[![Twitter Follow](https://img.shields.io/twitter/follow/qdqd___?style=social)](https://twitter.com/qdqd___)
+
+> This exercise is used by Ledger to test potential candidates, it has been created for this purpose.
+
+Founded in 2014, Ledger is a leader in security and infrastructure solutions for cryptocurrencies and blockchain applications. Headquartered in Paris, with offices in Vierzon, New York, London, and Singapore, Ledger has a team of 280+ professionals developing products and services to safeguard cryptocurrency assets for individuals and companies.
 
 ## Introduction
 
